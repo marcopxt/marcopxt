@@ -4,7 +4,7 @@ Hi! My name is **Marco Antônio Peixoto**, a Ph.D. candidate in genetics and bre
 
 👨‍💻 I'm an enthusiastic of data analysis, genetic assesment, genomic selection, and quantitative genetics.
 
-💡 I'm passionate about sharing knowledge and learning. Always open to new challegens and ready to face changes.
+💡 I'm passionate about sharing knowledge and learning. Always open to new challenges and ready to face changes.
 
 
 # Reach me out
