@@ -6,7 +6,7 @@ Hi! My name is **Marco Antônio Peixoto**, a Ph.D. candidate in genetics and bre
 
 💡 I'm passionate about sharing knowledge and learning. Always open to new challenges and ready to face changes.
 
-Curently, I'm investigating the topics:
+Currently, I'm investigating the topics:
 
 1. Design and deployment of sweet corn breeding program pipeline through simulation;
 2. Validation and optimization methodologies in genomic prediction pipelines/hybrid prediction;
