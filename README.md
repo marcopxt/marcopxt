@@ -1,6 +1,6 @@
 # Hey!
 
-Hi! My name is **Marco Antônio Peixoto**, a Ph.D. candidate in genetics and breeding from Federal University of Viçosa. 
+Hi! My name is **Marco Antônio Peixoto**, a Ph.D. in genetics and breeding from Federal University of Viçosa. 
 
 👨‍💻 I'm a data-driven enthusiastic of data science and quantitative genetics.
 
@@ -8,7 +8,7 @@ Hi! My name is **Marco Antônio Peixoto**, a Ph.D. candidate in genetics and bre
 
 Currently, I'm investigating the topics:
 
-1. Design and deployment of sweet corn breeding program pipeline through simulation;
+1. Design and deployment of sweet corn breeding program pipeline through simulation tools;
 2. Validation and optimization methodologies in genomic prediction pipelines/hybrid prediction;
 3. Optimization and mate-pair allocation considering inbreeding/coancestry, gain, and usefulness;
 4. R development tools to create and explore genetic optimization algorithms.
