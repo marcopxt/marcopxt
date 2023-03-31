@@ -10,7 +10,7 @@ Currently, I'm investigating the topics:
 
 1. Design and deployment of sweet corn breeding program pipeline through simulation;
 2. Validation and optimization methodologies in genomic prediction pipelines/hybrid prediction;
-3. Optimization and mate-pair allocation considering inbreeding/coancestry, gain, and usefullness;
+3. Optimization and mate-pair allocation considering inbreeding/coancestry, gain, and usefulness;
 4. R development tools to create and explore genetic optimization algorithms.
 
 # Visit my personal website
