@@ -1,6 +1,6 @@
 # Hey!
 
-Hi! My name is **Marco Antônio Peixoto**, a Ph.D. in genetics and breeding from Federal University of Viçosa. 
+Hi! My name is **Marco Antônio Peixoto**, a Ph.D. in genetics and breeding.
 
 👨‍💻 I'm a data-driven enthusiastic of data science and quantitative genetics.
 
